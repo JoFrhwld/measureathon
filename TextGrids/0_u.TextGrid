@@ -1,0 +1,108 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 0.770000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phone"
+		xmin = 0.000000
+		xmax = 0.770000
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.030000
+				text = "IH1"
+			intervals [2]:
+				xmin = 0.030000
+				xmax = 0.120000
+				text = "NG"
+			intervals [3]:
+				xmin = 0.120000
+				xmax = 0.150000
+				text = "L"
+			intervals [4]:
+				xmin = 0.150000
+				xmax = 0.199000
+				text = "IH2"
+			intervals [5]:
+				xmin = 0.199000
+				xmax = 0.230000
+				text = "SH"
+			intervals [6]:
+				xmin = 0.230000
+				xmax = 0.299000
+				text = "T"
+			intervals [7]:
+				xmin = 0.299000
+				xmax = 0.350000
+				text = "IY1"
+			intervals [8]:
+				xmin = 0.350000
+				xmax = 0.439000
+				text = "CH"
+			intervals [9]:
+				xmin = 0.439000
+				xmax = 0.490000
+				text = "ER0"
+			intervals [10]:
+				xmin = 0.490000
+				xmax = 0.520000
+				text = "L"
+			intervals [11]:
+				xmin = 0.520000
+				xmax = 0.580000
+				text = "UH1"
+			intervals [12]:
+				xmin = 0.580000
+				xmax = 0.609000
+				text = "K"
+			intervals [13]:
+				xmin = 0.609000
+				xmax = 0.650000
+				text = "S"
+			intervals [14]:
+				xmin = 0.650000
+				xmax = 0.680000
+				text = "AH0"
+			intervals [15]:
+				xmin = 0.680000
+				xmax = 0.710000
+				text = "T"
+			intervals [16]:
+				xmin = 0.710000
+				xmax = 0.740000
+				text = "M"
+			intervals [17]:
+				xmin = 0.740000
+				xmax = 0.770000
+				text = "IY1"
+	item [2]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0.000000
+		xmax = 0.770000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.230000
+				text = "ENGLISH"
+			intervals [2]:
+				xmin = 0.230000
+				xmax = 0.490000
+				text = "TEACHER"
+			intervals [3]:
+				xmin = 0.490000
+				xmax = 0.650000
+				text = "LOOKS"
+			intervals [4]:
+				xmin = 0.650000
+				xmax = 0.710000
+				text = "AT"
+			intervals [5]:
+				xmin = 0.710000
+				xmax = 0.770000
+				text = "ME"

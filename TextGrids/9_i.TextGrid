@@ -1,0 +1,144 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.000000
+xmax = 1.330000
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "phone"
+		xmin = 0.000000
+		xmax = 1.330000
+		intervals: size = 26
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.050000
+				text = "EH1"
+			intervals [2]:
+				xmin = 0.050000
+				xmax = 0.080000
+				text = "V"
+			intervals [3]:
+				xmin = 0.080000
+				xmax = 0.140000
+				text = "ER0"
+			intervals [4]:
+				xmin = 0.140000
+				xmax = 0.170000
+				text = "IY0"
+			intervals [5]:
+				xmin = 0.170000
+				xmax = 0.199000
+				text = "D"
+			intervals [6]:
+				xmin = 0.199000
+				xmax = 0.330000
+				text = "EY1"
+			intervals [7]:
+				xmin = 0.330000
+				xmax = 0.359000
+				text = "W"
+			intervals [8]:
+				xmin = 0.359000
+				xmax = 0.420000
+				text = "IH1"
+			intervals [9]:
+				xmin = 0.420000
+				xmax = 0.449000
+				text = "L"
+			intervals [10]:
+				xmin = 0.449000
+				xmax = 0.509000
+				text = "M"
+			intervals [11]:
+				xmin = 0.509000
+				xmax = 0.550000
+				text = "IH0"
+			intervals [12]:
+				xmin = 0.550000
+				xmax = 0.599000
+				text = "NG"
+			intervals [13]:
+				xmin = 0.599000
+				xmax = 0.630000
+				text = "T"
+			intervals [14]:
+				xmin = 0.630000
+				xmax = 0.660000
+				text = "AH0"
+			intervals [15]:
+				xmin = 0.660000
+				xmax = 0.720000
+				text = "N"
+			intervals [16]:
+				xmin = 0.720000
+				xmax = 0.750000
+				text = "B"
+			intervals [17]:
+				xmin = 0.750000
+				xmax = 0.859000
+				text = "AO1"
+			intervals [18]:
+				xmin = 0.859000
+				xmax = 0.920000
+				text = "L"
+			intervals [19]:
+				xmin = 0.920000
+				xmax = 0.990000
+				text = "T"
+			intervals [20]:
+				xmin = 0.990000
+				xmax = 1.019000
+				text = "AH0"
+			intervals [21]:
+				xmin = 1.019000
+				xmax = 1.060000
+				text = "M"
+			intervals [22]:
+				xmin = 1.060000
+				xmax = 1.099000
+				text = "AO2"
+			intervals [23]:
+				xmin = 1.099000
+				xmax = 1.210000
+				text = "R"
+			intervals [24]:
+				xmin = 1.210000
+				xmax = 1.240000
+				text = "AH0"
+			intervals [25]:
+				xmin = 1.240000
+				xmax = 1.300000
+				text = "N"
+			intervals [26]:
+				xmin = 1.300000
+				xmax = 1.330000
+				text = "D"
+	item [2]:
+		class = "IntervalTier"
+		name = "word"
+		xmin = 0.000000
+		xmax = 1.330000
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.000000
+				xmax = 0.170000
+				text = "EVERY"
+			intervals [2]:
+				xmin = 0.170000
+				xmax = 0.330000
+				text = "DAY"
+			intervals [3]:
+				xmin = 0.330000
+				xmax = 0.720000
+				text = "WILMINGTON"
+			intervals [4]:
+				xmin = 0.720000
+				xmax = 1.210000
+				text = "BALTIMORE"
+			intervals [5]:
+				xmin = 1.210000
+				xmax = 1.330000
+				text = "AND"
